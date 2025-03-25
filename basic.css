@@ -1,0 +1,21 @@
+
+        body{
+                color: aquamarine;
+                font-variant-ligatures: contextual;
+                
+                        background-image: url('backgournd.jpg');
+
+                    background-repeat: no-repeat;
+                    background-size: 300000px 1000000px;
+
+
+        } 
+        h1{
+                
+                border:2px solid  
+                rgb(25, 25, 245)
+                
+        }   
+        title{
+                color: rgb(144, 127, 255);
+        }
